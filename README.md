@@ -1,6 +1,12 @@
-# cyber-projects
-Cyber Security projects. . .
+# Cyber-projects
 
+Cyber Security
 
-All the projects related to Cyber Security are stored here !
-also including the upcoming personal projects which are now currently under progress or about to start
+There are mainly 5 Phases in Cyber Security. They are:
+1. Information Gathering / Reconnaissance
+2. Scanning
+3. Gaining Access / Exploitation
+4. Maintaining Access
+5. Covering Tracks
+
+The tool related to Scanning phase is port_scanner.py
