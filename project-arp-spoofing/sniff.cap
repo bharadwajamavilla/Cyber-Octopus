@@ -1,0 +1,6 @@
+net.probe on
+set arp.spoof.fullduplex true
+set arp.spoof.targets 0.0.0.0
+set net.sniff.local true
+arp.spoof on
+net.sniff on
