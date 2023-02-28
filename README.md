@@ -9,4 +9,3 @@ There are mainly 5 Phases in Cyber Security. They are:
 4. Maintaining Access
 5. Covering Tracks
 
-The tool related to Scanning phase is port_scanner.py
